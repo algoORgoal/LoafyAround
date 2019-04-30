@@ -1,8 +1,8 @@
 ---
-title: "Welcome to Jekyll!"
-date: 2017-10-20 08:26:28 -0400
-categories: jekyll update
+layout: post1
+title: TIL April, 30
 ---
+
 4/25
 reverse(): takes no argument. doesn’t return any value.
 reversed(): takes as input sequence. return  reversed argument.
