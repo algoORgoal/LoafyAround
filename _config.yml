@@ -1,4 +1,4 @@
 theme: jekyll-theme-slate
-
-url                      : "https://algoORgoal.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+title: TIL by algoORgoal
+description: daily posts about what I learned.
 
